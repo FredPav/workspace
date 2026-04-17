@@ -30,3 +30,8 @@
 - **Unable to push:** SSH keys not configured in environment
 
 **Status:** Changes committed locally, pushing requires manual SSH key setup
+
+**Git Log:**
+- a84168e: Recreate workspace files and standardize browser paths
+- 1aeaad6: Recreate Dinantia scripts and standardize browser paths
+- 44fd2fd: Re-initialize repo and update browser paths

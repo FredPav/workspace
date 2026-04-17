@@ -32,6 +32,7 @@
 **Status:** ✅ All changes pushed to https://github.com/FredPav/workspace
 
 **Git Log:**
+- 2edd3b2: chore: Add note about BROWSER_PATH in TOOLS.md
 - a08b6bc: chore: Update TOOLS.md with Dinantia script details
 - d32e015: chore: Final update to MEMORY.md
 - d896317: chore: Update MEMORY.md with successful push

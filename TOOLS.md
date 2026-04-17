@@ -69,7 +69,7 @@ const browser = await puppeteer.launch({
 **Files:**
 - `check-new.js` - Fetches new Dinantia messages
 - `get-wall-posts.js` - Fetches Dinantia wall posts
-- `refresh-session-puppeteer.js` - Refreshes Dinantia session via Puppeteer
+- `refresh-session-puppeteer.js` - Refreshes Dinantia session via Puppeteer (uses BROWSER_PATH)
 - `dinantia-daily-brief.js` - Daily brief generation and calendar sync
 - `sync_events_to_calendar.js` - Syncs Dinantia events to Google Calendar
 - `session.json` - Stores Dinantia session data (created by refresh-session-puppeteer.js)

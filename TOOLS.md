@@ -74,6 +74,8 @@ const browser = await puppeteer.launch({
 - `sync_events_to_calendar.js` - Syncs Dinantia events to Google Calendar
 - `session.json` - Stores Dinantia session data (created by refresh-session-puppeteer.js)
 
+**Note:** All Puppeteer scripts use `BROWSER_PATH = '/usr/bin/chromium'` for consistency.
+
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
